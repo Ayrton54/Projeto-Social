@@ -21,9 +21,7 @@ a{
     padding: 15px;
 }
 img{
-   background-size: cover; 
-    margin: 0px;
-    padding: 0px;
+    width: 100vw;
 }
 a:hover{
     background-color: red;
